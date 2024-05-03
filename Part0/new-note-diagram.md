@@ -9,6 +9,8 @@ sequenceDiagram
     Server-->>Browser: Status Code: 302 Found
     deactivate Server
 
+    Note right of Browser: Form Date <bt/> the form data is send with HTTP POST
+
     Server->>Browser: GET: https://studies.cs.helsinki.fi/exampleapp/new_note
     activate Browser
     Browser-->>Server: Reloads the note page
