@@ -14,7 +14,7 @@ sequenceDiagram
     Browser-->>Server: Reloads the note page
     deactivate Browser
 
-    Note right of Browser: Reload causes three more HTTP requests:<br/> fetching the style sheet (main.css), the JavaScript code (main.js), and the raw data of the notes (data.json).
+    Note right of Browser: Reload causes three more HTTP requests:<br/>  fetching the style sheet (main.css), the JavaScript code (main.js), and the raw data of the notes (data.json).
 
 
 ```
