@@ -31,4 +31,4 @@ sequenceDiagram
     Server-->>Browser: {content: "Beck is better than everyone", date: "2024-05-03T15:55:52.382Z"}
     deactivate Server
 
-    Note right of Browser: The Brower execute the callback function that renders the page
+    Note right of Browser: The Browser executes the callback function that renders the notes
