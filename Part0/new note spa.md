@@ -19,7 +19,7 @@ sequenceDiagram
     User->>Browser: Clicks on 'save' button
     deactivate Browser
 
-    Browser->>Server: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+    Browser->>Server: POST: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 
     activate Server
     Server-->>Browser: Status Code: 201 Created
