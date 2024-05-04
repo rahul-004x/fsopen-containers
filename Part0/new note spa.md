@@ -14,9 +14,9 @@ sequenceDiagram
 
     Note over Browser: Browser displays HTML document
 
-    User->>Browser: Enter 'new_note'
+    User->>Browser: Enter new note
     activate Browser
-    User->>Browser: Clicks of 'save' button
+    User->>Browser: Clicks on 'save' button
     deactivate Browser
 
     Browser->>Server: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
