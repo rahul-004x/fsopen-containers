@@ -18,5 +18,7 @@ sequenceDiagram
 
     Note right of Browser: Reload causes three more HTTP requests:<br/> fetching the style sheet (main.css), the JavaScript code (main.js), and the raw data of the notes (data.json).
 
+    Note right of Browser: The brower displays the updated notes   
+
 
 ```
