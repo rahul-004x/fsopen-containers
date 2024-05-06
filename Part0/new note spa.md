@@ -16,10 +16,10 @@ sequenceDiagram
 
     User->>Browser: Enter new note
     activate Browser
-    User->>Browser: Clicks on 'save' button
+    User->>Browser: Clicks 'save'
     deactivate Browser
 
-    Browser->>Server: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+    Browser->>Server: POST: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
 
     activate Server
     Server-->>Browser: Status Code: 201 Created
