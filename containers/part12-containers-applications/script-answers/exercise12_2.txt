@@ -1,0 +1,43 @@
+Script started on 2025-01-28 06:53:43+00:00 [TERM="tmux-256color" TTY="/dev/pts/6" COLUMNS="62" LINES="39"]
+[1m[7m#[27m[1m[0m                                                              [0m[27m[24m[J
+[38;2;49;50;68m[48;2;49;50;68;38;2;205;214;244m󰕈 root [48;2;250;179;135;38;2;49;50;68m[38;2;24;24;37m …/part12-containers-applications [48;2;166;227;161;38;2;250;179;135m[38;2;30;30;46m  main ? [48;2;148;226;213;38;2;166;227;161m[48;2;137;180;250;38;2;148;226;213m[45;38;2;137;180;250m[38;2;24;24;37m  12:23 [0m[35m [0m
+[1;38;2;166;227;161m[0m [K[?1h=[?2004h[7mdocker pull ubuntu[27m
+[KM[2C[27md[27mo[27mc[27mk[27me[27mr[27m [27mp[27mu[27ml[27ml[27m [27mu[27mb[27mu[27mn[27mt[27mu[1B[K[?1l>[?2004l
+Using default tag: latest
+latest: Pulling from library/ubuntu
+
+[1A[2Kde44b265507a: Pulling fs layer [1B[1A[2Kde44b265507a: Downloading  1.049MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  1.049MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  2.097MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  3.146MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  4.194MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  5.243MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  6.291MB/29.75MB[1B[1A[2Kde44b265507a: Downloading   7.34MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  8.389MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  9.437MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  10.49MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  10.49MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  11.53MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  12.58MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  12.58MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  13.63MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  14.68MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  15.73MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  16.78MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  17.83MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  18.87MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  19.92MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  20.97MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  20.97MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  22.02MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  23.07MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  24.12MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  25.17MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  25.17MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  26.21MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  27.26MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  28.31MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  29.36MB/29.75MB[1B[1A[2Kde44b265507a: Downloading  29.75MB/29.75MB[1B[1A[2Kde44b265507a: Download complete [1BDigest: sha256:80dd3c3b9c6cecb9f1667e9290b3bc61b78c2678c02cbdae5f0fea92cc6734ab
+Status: Downloaded newer image for ubuntu:latest
+docker.io/library/ubuntu:latest
+[1m[7m#[27m[1m[0m                                                              [0m[27m[24m[J
+[38;2;49;50;68m[48;2;49;50;68;38;2;205;214;244m󰕈 root [48;2;250;179;135;38;2;49;50;68m[38;2;24;24;37m …/part12-containers-applications [48;2;166;227;161;38;2;250;179;135m[38;2;30;30;46m  main ? [48;2;148;226;213;38;2;166;227;161m[48;2;137;180;250;38;2;148;226;213m[45;38;2;137;180;250m[38;2;24;24;37m  12:24 [0m[35m [0m
+[1;38;2;166;227;161m[0m [K[?1h=[?2004hddocu ker run d ubuntu exho   cho "Hello, World!"[?1l>[?2004l
+[0m[27m[24m[J[90m∙[0m [K[?1h=[?2004h[?2004l
+[1m[7m#[27m[1m[0m                                                              [0m[27m[24m[J
+[38;2;49;50;68m[48;2;49;50;68;38;2;205;214;244m󰕈 root [48;2;250;179;135;38;2;49;50;68m[38;2;24;24;37m …/part12-containers-applications [48;2;166;227;161;38;2;250;179;135m[38;2;30;30;46m  main ? [48;2;148;226;213;38;2;166;227;161m[48;2;137;180;250;38;2;148;226;213m[45;38;2;137;180;250m[38;2;24;24;37m  12:25 [0m[35m [0m
+[1;38;2;166;227;161m[0m [K[?1h=[?2004h[7msudo docker run ubuntu echo "Hello, World!"[27m
+[KM[2C[27ms[27mu[27md[27mo[27m [27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27me[27mc[27mh[27mo[27m [27m"[27mH[27me[27ml[27ml[27mo[27m,[27m [27mW[27mo[27mr[27ml[27md[27m![27m"[1B[K[?1l>[?2004l
+[0m[27m[24m[J[90m∙[0m [K[?1h=[?2004h[?2004l
+[1m[7m#[27m[1m[0m                                                              [0m[27m[24m[J
+[38;2;49;50;68m[48;2;49;50;68;38;2;205;214;244m󰕈 root [48;2;250;179;135;38;2;49;50;68m[38;2;24;24;37m …/part12-containers-applications [48;2;166;227;161;38;2;250;179;135m[38;2;30;30;46m  main ? [48;2;148;226;213;38;2;166;227;161m[48;2;137;180;250;38;2;148;226;213m[45;38;2;137;180;250m[38;2;24;24;37m  12:25 [0m[35m [0m
+[1;38;2;166;227;161m[0m [K[?1h=[?2004heecho "Hel      e  ddocker run i -it ubuntu[?1l>[?2004l
+[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# echo "Hello, E w World!"
+[?2004lHello, World!
+[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# [7mmkdir -p /usr/src/app[27m
+[Aroot@a315ea2b9d02:/# mkdir -p /usr/src/app
+[A
+[?2004l[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# [Kls use r/src
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# [7mecho 'console.log("Hello, Docker!");' > /[27m[7mu[27m[7musr/src/app/index.js[27m[A echo 'console.log("Hello, Docker!");' > /usr/src/app/index.js
+[?2004l[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# [Kls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib64[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;34mmedia[0m  [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# ls usr/scr  rc/app
+[?2004lindex.js
+[?2004h]0;root@a315ea2b9d02: /root@a315ea2b9d02:/# exit
+[?2004lexit
+[1m[7m#[27m[1m[0m                                                              [0m[27m[24m[J
+[38;2;49;50;68m[48;2;49;50;68;38;2;205;214;244m󰕈 root [48;2;250;179;135;38;2;49;50;68m[38;2;24;24;37m …/part12-containers-applications [48;2;166;227;161;38;2;250;179;135m[38;2;30;30;46m  main ? [48;2;148;226;213;38;2;166;227;161m[48;2;137;180;250;38;2;148;226;213m[45;38;2;137;180;250m[38;2;24;24;37m  12:29 [0m[35m [0m
+[1;38;2;166;227;161m[0m [K[?1h=[?2004heexit[?1l>[?2004l
+
+Script done on 2025-01-28 06:59:08+00:00 [COMMAND_EXIT_CODE="0"]
